@@ -8,7 +8,7 @@ Source: UCI / Housing (Boston)
 
 **of features: 13**
 
-！[picture](https://github.com/qwert-f/qwert-f/blob/main/housing/2021-05-23_21-45.png)
+![picture](https://github.com/qwert-f/qwert-f/blob/main/housing/2021-05-23_21-45.png)
 
 -v 10 十倍交叉验证；-c 10 参考文档里说加上平均，网上说是惩罚系数，即对误差的宽容度 
 
