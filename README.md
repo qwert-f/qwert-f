@@ -2,7 +2,7 @@
 - 👀 I’m interested in algorithm,front end and so on
 - 🌱 I’m currently learning ts, xml and so on
 - 💞️ I’m looking to collaborate on android app and linux(.deb) app
-- 📫 How to reach me, send email to qwert-f@outlook.com
+- 📫 How to reach me, send email to logicout@logicout.cf
 
 <!---
 qwert-f/qwert-f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
