@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @qwert-f
-- 👀 I’m interested in algorithm,front end and so on
-- 🌱 I’m currently learning ts, xml and so on
-- 💞️ I’m looking to collaborate on android app and linux(.deb) app
+- 👋 Hi, I’m @logicout
 - 📫 How to reach me, send email to logicout@logicout.cf
 
 <!---
